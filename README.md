@@ -2,7 +2,7 @@
 
 A personal internship report website built with **Hugo** and the **FCJ Workshop template**, documenting my internship experience at **Amazon Web Services Vietnam Co., Ltd.** The site is automatically deployed to **GitHub Pages** via GitHub Actions CI/CD.
 
-🌐 **Live Site:** [https://github.com/tmh-1234.io/aws-internship-report-site/](https://github.com/tmh-1234.io/aws-internship-report-site/)
+🌐 **Live Site:** [https://tmh-1234.github.io/aws-internship-report-site/](https://tmh-1234.github.io/aws-internship-report-site/)
 
 ---
 
@@ -155,7 +155,7 @@ The workshop section documents a hands-on AWS lab covering **AWS PrivateLink** a
 
 ```bash
 # Clone with submodules (required for the theme)
-git clone --recurse-submodules https://github.com/2280603697NguyenQuangVinh/aws-internship-report-site.git
+git clone --recurse-submodules https://github.com/tmh-1234/aws-internship-report-site.git
 cd aws-internship-report-site
 
 # Start local dev server
@@ -213,7 +213,7 @@ Language switching is available in the site navigation.
 
 ## 🔗 Links
 
-- 📁 [GitHub Repository](https://github.com/2280603697NguyenQuangVinh/aws-internship-report-site)
+- 📁 [GitHub Repository](https://github.com/tmh-1234/aws-internship-report-site)
 - 👥 [AWS FCJ Study Group (Facebook)](https://www.facebook.com/groups/awsstudygroupfcj/)
 - 🎨 [Hugo Theme Learn](https://github.com/matcornic/hugo-theme-learn)
 - Linkedin: https://www.linkedin.com/in/tong-minh-hieu-8979a6403/
