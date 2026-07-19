@@ -2,7 +2,7 @@
 
 A personal internship report website built with **Hugo** and the **FCJ Workshop template**, documenting my internship experience at **Amazon Web Services Vietnam Co., Ltd.** The site is automatically deployed to **GitHub Pages** via GitHub Actions CI/CD.
 
-🌐 **Live Site:** [https://2280603697NguyenQuangVinh.github.io/aws-internship-report-site/](https://2280603697NguyenQuangVinh.github.io/aws-internship-report-site/)
+🌐 **Live Site:** [https://github.com/tmh-1234.io/aws-internship-report-site/](https://github.com/tmh-1234.io/aws-internship-report-site/)
 
 ---
 
