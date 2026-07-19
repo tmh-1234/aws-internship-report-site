@@ -1,4 +1,4 @@
-baseURL = "https://2280603697NguyenQuangVinh.github.io/aws-internship-report-site/"
+baseURL = "https://github.com/tmh-1234.github.io/aws-internship-report-site/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
@@ -30,7 +30,7 @@ languageName = "English"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-github'></i> GitHub Repository"
 identifier = "GitHub Repository"
-url = "https://github.com/2280603697NguyenQuangVinh/aws-internship-report-site"
+url = "https://github.com/tmh-1234/aws-internship-report-site"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
@@ -47,7 +47,7 @@ languageName = "Tiếng Việt"
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-github'></i> Mã nguồn GitHub"
 identifier = "GitHub Repository"
-url = "https://github.com/2280603697NguyenQuangVinh/aws-internship-report-site"
+url = "https://github.com/tmh-1234/aws-internship-report-site"
 weight = 10
 
 [[Languages.vi.menu.shortcuts]]
