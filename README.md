@@ -18,7 +18,7 @@ A personal internship report website built with **Hugo** and the **FCJ Workshop 
 | **Class** | 22DTHJA2 |
 | **Company** | Amazon Web Services Vietnam Co., Ltd. |
 | **Position** | FCJ Cloud Engineer |
-| **Duration** | 20/04/2026 – 12/07/2026 |
+| **Duration** | 17/04/2026 – 30/07/2026 |
 
 ---
 
