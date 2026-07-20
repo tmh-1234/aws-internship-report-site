@@ -67,9 +67,9 @@ aws-internship-report-site/
 │   ├── 2-Proposal/               # Internship proposal document
 │   │
 │   ├── 3-Blogs-Posted/        # 3 AWS blogs
-│   │   ├── 3.1-Blog1/            # Blog 1: Healthcare data lakes with microservices
-│   │   ├── 3.2-Blog2/
-│   │   ├── ... (up to 3.6-Blog6/)
+│   │   ├── 3.1-Blog1/            # Blog 1: Refining the Serverless Architecture for GreenLens Kids through Practical Experience
+│   │   ├── 3.2-Blog2/            # Blog 2: Building the Cloud Application Layer with First Cloud AI Journey
+│   │   ├── 3.3-Blog3/            # Blog 3: Summarizing the Journey of Building GreenLens Kids with First Cloud AI Journey
 │   │
 │   ├── 4-EventParticipated/      # Events attended during internship
 │   │   ├── 4.1-Event1/           # GenAI-powered App-DB Modernization Workshop

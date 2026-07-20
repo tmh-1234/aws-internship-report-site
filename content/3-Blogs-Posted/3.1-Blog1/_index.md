@@ -5,7 +5,7 @@ weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
-# The process of refining the Serverless architecture for the GreenLens Kids project through practical experience*
+# The process of refining the Serverless architecture for the GreenLens Kids project through practical experience
 
 Hello everyone, we are the We Are One team participating in AWS’s First Cloud AI Journey. Today, I want to share some real-world lessons we learned while designing the system architecture for GreenLens Kids. This project was built on AWS Serverless, applied AI, and gamification to guide children in sorting waste.
 
