@@ -19,7 +19,7 @@ pre: " <b> 1.12. </b> "
 | Thứ 4 | | 08/07/2026 | 08/07/2026 |  |
 | Thứ 5 | Tạo Workshop. In phiếu đánh giá. Viết Báo cáo thực tập tốt nghiệp. | 09/07/2026 | 11/07/2026 |  |
 | Thứ 6 | Tạo Workshop. In phiếu đánh giá. Viết Báo cáo thực tập tốt nghiệp. | 09/07/2026 | 11/07/2026 |  |
-| Thứ 7 | Tạo Workshop. In phiếu đánh giá. Viết Báo cáo thực tập tốt nghiệp. | 09/07/2026 | 11/07/2026 |  |
+| Thứ 7 |  | 09/07/2026 | 11/07/2026 |  |
 | Chủ Nhật | | 12/07/2026 | 12/07/2026 |  |
 
 ### Kết quả đạt được tuần 12:
