@@ -5,7 +5,7 @@ weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
-During my internship at Amazon Web Services Vietnam from 20/04/2026 to 12/07/2026, I had the opportunity to work in a practical professional environment and apply the knowledge I had learned at university to real-world tasks.
+During my internship at Amazon Web Services Vietnam from 17/04/2026 to 30/07/2026, I had the opportunity to work in a practical professional environment and apply the knowledge I had learned at university to real-world tasks.
 
 During this internship, I took on the role of a **frontend developer** as a core team member in the project. My responsibilities included participating in UI/UX discussions, supporting interface planning, collaborating on technical solutions with team members, and directly developing frontend features and responsive user interfaces. I was also responsible for reading, reviewing, and understanding backend system logic and API documentation to ensure smooth client-side API integration, without directly writing any backend code. Through this experience, I improved not only my technical knowledge in frontend development, responsive design, API integration, and UI/UX optimization, but also my skills in teamwork, communication, and problem solving.
 

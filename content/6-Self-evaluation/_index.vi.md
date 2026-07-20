@@ -5,7 +5,7 @@ weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
-Trong suốt quá trình thực tập tại Amazon Web Services Việt Nam từ ngày 20/04/2026 đến ngày 12/07/2026, em đã có cơ hội được làm việc trong một môi trường chuyên nghiệp thực tế và áp dụng những kiến thức đã học tại trường đại học vào các tác vụ thực tiễn.
+Trong suốt quá trình thực tập tại Amazon Web Services Việt Nam từ ngày 17/04/2026 đến ngày 30/07/2026, em đã có cơ hội được làm việc trong một môi trường chuyên nghiệp thực tế và áp dụng những kiến thức đã học tại trường đại học vào các tác vụ thực tiễn.
 
 Trong kỳ thực tập này, em đảm nhận vai trò là một **Frontend Developer** (thành viên trong nhóm) của dự án. Trách nhiệm của em bao gồm tham gia vào các buổi thảo luận UI/UX, hỗ trợ lập kế hoạch giao diện, phối hợp tìm kiếm giải pháp kỹ thuật với các thành viên, trực tiếp phát triển các tính năng frontend và giao diện người dùng responsive. Đồng thời, em cũng chịu trách nhiệm đọc hiểu, rà soát cấu trúc hệ thống logic backend và tài liệu API để đảm bảo quá trình tích hợp API lên phía client diễn ra mượt mà, hoàn toàn không trực tiếp can thiệp hay viết code hệ thống backend. Thông qua trải nghiệm này, em không chỉ nâng cao kiến thức chuyên môn về frontend development, responsive design, API integration và tối ưu hóa UI/UX, mà còn phát triển các kỹ năng về teamwork, giao tiếp và giải quyết vấn đề.
 
