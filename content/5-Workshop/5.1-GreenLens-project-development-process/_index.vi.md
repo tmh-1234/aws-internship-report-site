@@ -86,4 +86,4 @@ Tài liệu dự án, repository mã nguồn và lịch sử task đều đượ
 Nhìn chung, dự án GreenLens được hoàn thành theo một quy trình rõ ràng và có tổ chức. Nhóm làm việc với trách nhiệm được phân chia cụ thể, duy trì giao tiếp nhất quán và sử dụng hiệu quả Jira và GitHub để quản lý task cũng như mã nguồn. Nhờ đó, dự án đã được phát triển thành công trong khung thời gian dự kiến từ ngày 1/6/2026 đến ngày 6/7/2026.
 
 GitHub: [Kho lưu trữ GreenLens](https://github.com/2280603697NguyenQuangVinh/Greenlens)
-Jira: [Chèn link Jira vào đây]
+Demo trực tiếp: [Bản triển khai GreenLens](https://main.d32rydccx28td4.amplifyapp.com/)

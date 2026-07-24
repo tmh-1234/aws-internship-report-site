@@ -85,4 +85,4 @@ The project documentation, source code repository, and task history were kept or
 Overall, the GreenLens project was completed through a clear and well-organized workflow. The team worked with defined responsibilities, maintained consistent communication, and used Jira and GitHub effectively to manage tasks and source code. As a result, the project was developed successfully within the planned timeline from June 1, 2026 to July 6, 2026.
 
 GitHub: [GreenLens repository](https://github.com/2280603697NguyenQuangVinh/Greenlens)
-Jira: [Chèn link Jira vào đây]
+Live demo: [GreenLens deployment](https://main.d32rydccx28td4.amplifyapp.com/)
